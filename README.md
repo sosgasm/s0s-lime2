@@ -20,72 +20,13 @@ Hardware:
 * 32GB MicroSD card
 * An old power supply rack
 * Lithium Ion battery 3000mAh
-
-
+* 3mm thick piece of wood (Size depends on the size of the power supply rack)
+* Computer to flash your SD card with
+```
+```
 Cables:
-
+* Jumper Wires
 ```
-*Jumper wires (colored)
-
-```
-Software:
-* RetroPie, check https://retropie.org.uk/ and https://github.com/RetroPie/RetroPie-Setup/wiki
-```
-
-```
-Most used tools:
-* Hammer                                                                                                 
-* Sawtable                                                                                                
-* Screwdrivers                                                                                            
-* Sandpaper 
-* Scissors
-* Drill
-* Handsaw
-```
- 
-```  
-Safety:
-* Goggles
-* Gloves
-* Noise cancelling earmuffs
-```
-
-```
-Other:
-* (Ply)wood
-* Wood glue
-* Black paint
-* Paintbrush
-* Stickers (decoration)
-* Screws <todo: insert screw type>
-```
-
-```
-I used the following documentation to install RetroPie:
-https://github.com/RetroPie/RetroPie-Setup/wiki/First-Installation
-```
-## The box
-My idea of an arcade box was simple: A square or rectangle shaped box with a cut out window for a small monitor.
-![Cutout for monitor](https://www.prisamsterdam.com/img/arcapie/frontbox.jpg)
- 
-```
-Cut out six rectangles to create the box:
-
-* Cut out 6 rectangles with the following  dimensions: <todo:insert dimensions>
-* Smoothen them with sandpaper as much as you want
-* Take one of the planks with dimensions <todo: insert dimensions>
-* Lay the front on the monitor on the plank to draw the outline
-* Cut out the outline to create the placeholder for the monitor
-
-Decoration:
-* Paint the planks black. Maybe cut out a little outline for the monitor. As you can see in the picture I
-cut out an outline and painted it silver. I put stickers on it after. 
-
-```
-
-## License
-
-This project is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/)
 
 
 
