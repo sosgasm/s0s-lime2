@@ -20,9 +20,11 @@ Hardware:
 * 32GB MicroSD card
 * An old server power supply rack
 * Lithium Ion battery 3000mAh
+```
 
 ![Project pic](https://www.prisamsterdam.com/img/lime/lith.jpg)
 
+```
 * 3mm thick piece of wood (Size depends on the size of the power supply rack)
 * White paint to decorate plywood
 * Computer to flash your SD card with
@@ -36,8 +38,9 @@ Hardware:
 Cables:
 * Jumper Wires
 * Power supply (5V)
-* SATA (data cable) and power cable. Please check the following link: [Olimex SATA cable](https://www.olimex.com/Products/Components/Cables/SATA-CABLE-SET)
+* SATA (data cable) and power cable. Please follow the link below:
 ```
+[Olimex SATA cable](https://www.olimex.com/Products/Components/Cables/SATA-CABLE-SET)
 
 ```
 OS:
