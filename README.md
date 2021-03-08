@@ -38,7 +38,7 @@ Hardware:
 Cables:
 * Jumper Wires
 * Power supply (5V)
-* SATA (data cable) and power cable. Please check the following link:
+* SATA (data cable) and power cable. Please follow the link below:
 ```
 [Olimex SATA cable](https://www.olimex.com/Products/Components/Cables/SATA-CABLE-SET)
 
