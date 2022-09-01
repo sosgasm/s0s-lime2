@@ -43,8 +43,10 @@ Cables:
 [Olimex SATA cable](https://www.olimex.com/Products/Components/Cables/SATA-CABLE-SET)
 
 ```
+I installed an unofficial Armbian image which works fine, but is now unsupported. You will find an archive of Armbian images for this board, on the their website.  
 OS:
 * Armbian Focal (https://www.armbian.com/download/?tx_maker=olimex)
+[Latest Armbian OS (Unofficial)](https://armbian.systemonachip.net/archive/lime2/archive/)
 ```
 
 
