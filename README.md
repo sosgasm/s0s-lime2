@@ -1,7 +1,5 @@
 # Homeserver with Olimex Lime2 A20
-
-![Project pic](https://www.prisamsterdam.com/img/lime/lime01.jpg)
-
+<img src="/lime.jpg?raw=true" width="500px">
 
 ## Getting Started
 So, I got myself a superb quality singleboard computer and turned it into a project.
